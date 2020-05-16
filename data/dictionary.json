@@ -28,6 +28,8 @@
     "instanceof",
     "insteadof",
     "throwable",
-    "iterable"
+    "iterable",
+    "zend",
+    "stristr"
   ]
 }
