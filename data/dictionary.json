@@ -30,6 +30,8 @@
     "throwable",
     "iterable",
     "zend",
-    "stristr"
+    "stristr",
+    "argv",
+    "argc"
   ]
 }
