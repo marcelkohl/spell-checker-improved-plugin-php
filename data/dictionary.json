@@ -32,6 +32,22 @@
     "zend",
     "stristr",
     "argv",
-    "argc"
+    "argc",
+    "chr",
+    "sprintf",
+    "strlen",
+    "dir",
+    "dirname",
+    "exif",
+    "globals",
+    "intval",
+    "phpunit",
+    "preg",
+    "strlen",
+    "strpos",
+    "strtolower",
+    "substr",
+    "typeof",
+    "gettype"
   ]
 }
