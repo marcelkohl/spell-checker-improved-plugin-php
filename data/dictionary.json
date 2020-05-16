@@ -1,0 +1,20 @@
+{
+  "dictionary": [
+    "php",
+    "const",
+    "isset",
+    "eval",
+    "elseif",
+    "endif",
+    "argv",
+    "argc",
+    "charset",
+    "referer",
+    "auth",
+    "eol",
+    "eof",
+    "asc",
+    "desc",
+    "sqrt"
+  ]
+}
