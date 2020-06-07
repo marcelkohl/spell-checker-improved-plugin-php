@@ -1,6 +1,6 @@
 {
   "name": "spell-checker-improved-plugin-php",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "./lib/main",
   "description": "This is a complementary plugin for the spell checker improved package which brings a dictionary of known words for the PHP language",
   "repository": "https://github.com/marcelkohl/spell-checker-improved-plugin-php",
